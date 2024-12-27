@@ -11,6 +11,7 @@
 - [11. Работа с кучей на C++.](questions/11.pdf)
 - [12. Наследование и полиморфизм.](questions/12.md)
 - [13. Умные указатели.](questions/13.pdf)
+- [14. Перегрузка операторов.](questions/14.pdf)
 
 ## Linked List Implementations
 - [Интрузивный связный список](code/intrusive_list/intrusive_list.c)
