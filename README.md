@@ -13,7 +13,7 @@
 - [13. Умные указатели.](questions/13.pdf)
 - [14. Перегрузка операторов.](questions/14.pdf)
 
-## Linked List Implementations
+## Реализации
 - [Интрузивный связный список](code/intrusive_list/intrusive_list.c)
 - [Неинтрузивный связный список](code/no_intrusive_list/list.c)
 - [Сортировка пузырьком C](code/bubble_sort/sort.c)
