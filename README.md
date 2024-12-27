@@ -17,3 +17,5 @@
 - [Интрузивный связный список](code/intrusive_list/intrusive_list.c)
 - [Неинтрузивный связный список](code/no_intrusive_list/list.c)
 - [Сортировка пузырьком C](code/bubble_sort/sort.c)
+- [Перегрузка операторов](code/operators/)
+- [shared_ptr](code/lab-08_shared-ptr)
